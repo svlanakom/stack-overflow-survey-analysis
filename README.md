@@ -12,7 +12,10 @@ The goal was to explore developer experience, remote work trends, Python popular
 ## Tools & Technologies
 - Python  
 - Pandas  
-- Jupyter Notebook  
+- Jupyter Notebook
+  
+## Tech Stack
+Python | Pandas | Jupyter Notebook | Data Cleaning | Data Aggregation | Statistical Analysis
 
 ## Key Analysis Performed
 - Calculation of total respondents
